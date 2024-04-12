@@ -1,10 +1,6 @@
 # 陈凯的菜谱
 
-[![build](https://github.com/Anduin2017/HowToCook/actions/workflows/build.yml/badge.svg)](https://github.com/Anduin2017/HowToCook/actions/workflows/build.yml)
-[![License](https://img.shields.io/github/license/Anduin2017/HowToCook)](./LICENSE)
-[![GitHub contributors](https://img.shields.io/github/contributors/Anduin2017/HowToCook)](https://github.com/Anduin2017/HowToCook/graphs/contributors)
-[![npm](https://img.shields.io/npm/v/how-to-cook)](https://www.npmjs.com/package/how-to-c
-
+- 一忧一喜皆心火，一荣一枯皆眼尘，静心看透炎凉事，千古不做梦里人。
 
 ## 做菜之前
 
